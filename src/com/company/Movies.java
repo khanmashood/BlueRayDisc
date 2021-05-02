@@ -1,5 +1,5 @@
 package com.company;
-//Mashood Khan CSC 1322 Section 02
+
 public class Movies {
 
     public static void main(String[] args) {
