@@ -1,5 +1,5 @@
 package com.company;
-//Mashood Khan CSC 1322 Section 02
+
 public class BluRayDisc {
     private String title;
     private String director;
